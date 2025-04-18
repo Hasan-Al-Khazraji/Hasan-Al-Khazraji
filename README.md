@@ -6,9 +6,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a search engine**
+ 🔭 I’m currently working at **Shopify**
  
- 🌱 Working with **React, Python, C, and Docker**
+ 🌱 Working with **Ruby and React**
 
  🌎 Connect with me here:
 
@@ -26,8 +26,8 @@
 <h2 align="center">Tech Stack 🚀</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,git,nodejs,c,python,javascript,typescript" />
-    <img src="https://skillicons.dev/icons?i=mongodb,nestjs,java,postgresql,flask,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=ruby,rails,react,nodejs,c,python,typescript" />
+    <img src="https://skillicons.dev/icons?i=mongodb,nestjs,postgresql,docker" /><br>
 </div>
 
 <br/>
