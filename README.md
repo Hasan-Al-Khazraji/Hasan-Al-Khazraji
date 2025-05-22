@@ -1,19 +1,30 @@
 <h1 align="center">
-    Hey There! 👋 My name is Hasan
+    👋 Hi I'm Hasan!
 </h1>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working at **Shopify**
- 
- 🌱 Working with **Ruby and React**
 
- 🌎 Connect with me here:
+<h3>I'm currently:</h3>
+ 
+ 💻 Software Engineering Intern @ **Shopify**
+ 
+ 🎓 Computer Engineering @ **University of Guelph**
+
+ 🌱 Working with **Ruby on Rails and React** 
+ 
+🌌 Also enjoy coding with **Golang and Python**
+
+<br/>
+ <h3 align="center">Tech Stack</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=ruby,rails,react,go,nodejs,python,typescript" />
+    <img src="https://skillicons.dev/icons?i=mongodb,nestjs,postgresql,docker" /><br>
+</div>
 
  </div>
-
+ <!--
  <div align="center"> 
   <a href="https://www.linkedin.com/in/hasan-al-khazraji/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -23,6 +34,7 @@
   </a>
 </div>
 
+<!--
 <h2 align="center">Tech Stack 🚀</h2>
 <br/>
 <div align="center">
