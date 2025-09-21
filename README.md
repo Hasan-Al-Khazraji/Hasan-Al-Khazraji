@@ -8,13 +8,13 @@
 
 <h3>I'm currently:</h3>
  
- 💻 Software Engineering Intern @ **Shopify**
+ 💻 Software Engineering Intern @ **Tesla**
  
  🎓 Computer Engineering @ **University of Guelph**
 
- 🌱 Working with **Ruby on Rails and React** 
+ 🌱 Working with **Python and Golang** 
  
-🌌 Also enjoy coding with **Golang and Python**
+🌌 Also enjoy coding with **Ruby On Rails and React**
 
 <br/>
  <h3 align="center">Tech Stack</h2>
